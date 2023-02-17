@@ -1,0 +1,61 @@
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\bin\Debug\QLTK.exe.config
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\bin\Debug\QLTK.exe
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\bin\Debug\QLTK.pdb
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.csproj.AssemblyReference.cache
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.Properties.Resources.resources
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.csproj.GenerateResource.cache
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.csproj.CopyComplete
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.exe
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.pdb
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.mainFrom.resources
+C:\Users\vinh6\Desktop\DragonboyPro_v221\QLTK\obj\Debug\QLTK.UserControls.Dashboard.resources
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\bin\Debug\QLTK.exe.config
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\bin\Debug\QLTK.exe
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\bin\Debug\QLTK.pdb
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.csproj.AssemblyReference.cache
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.Properties.Resources.resources
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.UserControls.Dashboard.resources
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.csproj.GenerateResource.cache
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.csproj.CopyComplete
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.exe
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.pdb
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\obj\Debug\QLTK.mainForm.resources
+C:\Users\vinh6\Desktop\DragonboyPro\QLTK\bin\Debug\LitJson.dll
+C:\Users\vinh6\Desktop\DragonboyPro\Game\QLTK.exe.config
+C:\Users\vinh6\Desktop\DragonboyPro\Game\QLTK.exe
+C:\Users\vinh6\Desktop\DragonboyPro\Game\QLTK.pdb
+C:\Users\vinh6\Desktop\all_src\core_225\Game\QLTK.exe.config
+C:\Users\vinh6\Desktop\all_src\core_225\Game\QLTK.exe
+C:\Users\vinh6\Desktop\all_src\core_225\Game\QLTK.pdb
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.csproj.AssemblyReference.cache
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.mainForm.resources
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.Properties.Resources.resources
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.UserControls.Dashboard.resources
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.csproj.GenerateResource.cache
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.csproj.CopyComplete
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.exe
+C:\Users\vinh6\Desktop\all_src\core_225\QLTK\obj\Debug\QLTK.pdb
+C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\QLTK.exe.config
+C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\QLTK.exe
+C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\QLTK.pdb
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.csproj.AssemblyReference.cache
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.mainForm.resources
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.Properties.Resources.resources
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.UserControls.Dashboard.resources
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.csproj.GenerateResource.cache
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.csproj.CoreCompileInputs.cache
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.csproj.CopyComplete
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.exe
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.pdb
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.UserControls.Infomation.resources
+C:\Users\vinh6\Desktop\project nro\new\auto_task\QLTK\obj\Debug\QLTK.UserControls.Setting.resources

@@ -1,0 +1,82 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.401400 ms
+Platform assembly: C:\Users\vinh6\Desktop\project nro\new\auto_task\Game\123Tool_Data\Managed\LitJSON.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e60 -> priority: 1 
+  Thread -> id: 3e4 -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon1.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 149 unused Assets to reduce memory usage. Loaded Objects now: 959.
+Total: 1.803500 ms (FindLiveObjects: 0.089400 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.543400 ms  DeleteObjects: 0.110600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 857.
+Total: 1.924700 ms (FindLiveObjects: 0.065500 ms CreateObjectMapping: 0.075800 ms MarkObjects: 1.765100 ms  DeleteObjects: 0.017400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 857.
+Total: 3.532200 ms (FindLiveObjects: 0.082200 ms CreateObjectMapping: 0.095800 ms MarkObjects: 3.349400 ms  DeleteObjects: 0.003600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 2.559300 ms (FindLiveObjects: 0.077000 ms CreateObjectMapping: 0.093900 ms MarkObjects: 2.295900 ms  DeleteObjects: 0.091700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 2.514700 ms (FindLiveObjects: 0.051300 ms CreateObjectMapping: 0.056800 ms MarkObjects: 2.402800 ms  DeleteObjects: 0.002600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 2.782800 ms (FindLiveObjects: 0.061100 ms CreateObjectMapping: 0.083800 ms MarkObjects: 2.633600 ms  DeleteObjects: 0.003300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 2.356600 ms (FindLiveObjects: 0.062600 ms CreateObjectMapping: 0.057000 ms MarkObjects: 2.233800 ms  DeleteObjects: 0.002500 ms)
+
